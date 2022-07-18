@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="key_1">C</string>
+    <string name="key_2">◀</string>
+    <string name="key_3">%</string>
+    <string name="key_4">÷</string>
+    <string name="key_5">7</string>
+    <string name="key_6">8</string>
+    <string name="key_7">9</string>
+    <string name="key_8">×</string>
+    <string name="key_9">4</string>
+    <string name="key_10">5</string>
+    <string name="key_11">6</string>
+    <string name="key_12">-</string>
+    <string name="key_13">1</string>
+    <string name="key_14">2</string>
+    <string name="key_15">3</string>
+    <string name="key_16">+</string>
+    <string name="key_17">0</string>
+    <string name="key_18">,</string>
+    <string name="key_19">=</string>
 </resources>
